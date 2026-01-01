@@ -3,12 +3,6 @@
 Soy estudiante universitario de la carrera Ingenieria en Sistemas Computacionales ISC y me interesa el desarrollo de software innovador y eficiente. Me gusta crear herramientas que resuelvan problemas cotidianos y ayuden a automatizar procesos. Actualmente estoy aprendiendo nuevas tecnologías y trabajando en diversos proyectos personales.
 
 Me gustaría colaborar en proyectos de código abierto o en iniciativas que busquen mejorar la eficiencia y calidad del software.
-  
-Puedes contactarme a través de mi <a href="mailto:gomezleandrof6@gmail.com" aria-label="mail">Mail</a>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeandroJoseGomez&show_icons=true&theme=radical)
-
 
 ### 🛠 Tecnologías y Herramientas
 
