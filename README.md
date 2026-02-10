@@ -1,6 +1,6 @@
 ## 👋 Hola, soy Leandro Gómez.
 
-Soy estudiante universitario de la carrera Ingenieria en Sistemas Computacionales ISC y me interesa el desarrollo de software innovador y eficiente. Me gusta crear herramientas que resuelvan problemas cotidianos y ayuden a automatizar procesos. Actualmente estoy aprendiendo nuevas tecnologías y trabajando en diversos proyectos personales.
+Me gusta crear herramientas que resuelvan problemas cotidianos y ayuden a automatizar procesos. Actualmente estoy aprendiendo nuevas tecnologías y trabajando en diversos proyectos personales.
 
 Me gustaría colaborar en proyectos de código abierto o en iniciativas que busquen mejorar la eficiencia y calidad del software.
 
