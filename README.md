@@ -16,9 +16,6 @@ Me gustaría colaborar en proyectos de código abierto o en iniciativas que busq
   <img src="https://github.com/LeandroJoseGomez/LeandroJoseGomez/blob/main/sap.svg" alt="SAP" width="60" height="60"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
-  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
 
